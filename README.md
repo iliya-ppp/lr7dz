@@ -46,10 +46,10 @@ int main()
     switch (degree) 
     {
         case 10:
-            printf("K\n"); // Строго латинская K
+            printf("K\n");
             break;
         case 20:
-            printf("M\n"); // Строго латинская M
+            printf("M\n"); 
             break;
         case 30:
             printf("G\n");
