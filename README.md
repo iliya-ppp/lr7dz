@@ -27,8 +27,8 @@
 
 ### Блок-схема
 
-<img width="521" height="766" alt="image" src="https://github.com/user-attachments/assets/73ee4fb8-a429-4df9-a6a3-97b3532fce40" />
-https://app.diagrams.net/#Llr7dz.drawio#%7B%22pageId%22%3A%22AycO_DlfPqucLoYzMGpC%22%7D
+<img width="1148" height="888" alt="image" src="https://github.com/user-attachments/assets/c006da78-d662-47b8-92eb-2b401b5bfed1" />
+https://app.diagrams.net/#Llr7dz.drawio#%7B%22pageId%22%3A%22tQaG9tD7nEnr8zy2EhSa%22%7D
 ## 2. Реализация программы
 
 ```c
