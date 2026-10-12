@@ -29,6 +29,7 @@
 
 <img width="1148" height="888" alt="image" src="https://github.com/user-attachments/assets/c006da78-d662-47b8-92eb-2b401b5bfed1" />
 https://app.diagrams.net/#Llr7dz.drawio#%7B%22pageId%22%3A%22tQaG9tD7nEnr8zy2EhSa%22%7D
+
 ## 2. Реализация программы
 
 ```c
