@@ -74,8 +74,16 @@ int main()
 ```
 
 ## 3. Результаты работы программы
-Введите степень: 20
-M
+<img width="244" height="48" alt="image" src="https://github.com/user-attachments/assets/8f44caa9-c477-4258-82ea-ca08d587695b" />
+<img width="239" height="47" alt="image" src="https://github.com/user-attachments/assets/21e68659-cf9b-4f22-b301-ca140662b932" />
+<img width="248" height="53" alt="image" src="https://github.com/user-attachments/assets/57ec585f-460d-43af-b5a1-80a18771fa80" />
+<img width="244" height="51" alt="image" src="https://github.com/user-attachments/assets/6972ef1d-b8ae-41e7-9b80-7b614e7f8e95" />
+<img width="240" height="51" alt="image" src="https://github.com/user-attachments/assets/8370c951-f11f-4391-bd08-cb557f11da5d" />
+<img width="250" height="53" alt="image" src="https://github.com/user-attachments/assets/85a5246c-96fb-4241-aa92-09b92951bea4" />
+<img width="249" height="59" alt="image" src="https://github.com/user-attachments/assets/f1dfb520-e1db-4809-b50c-66337852f91a" />
+
+
+
 
 ## 4. Информация о разработчике
 Мамонов Илья бИЦТ-261
