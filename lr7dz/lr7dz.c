@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_DEPRECATE
+п»ї#define _CRT_SECURE_NO_DEPRECATE
 #include<locale.h>
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main()
     setlocale(LC_ALL, "RUS");
     int degree = 0;
 
-    printf("Введите степень: ");
+    printf("Р’РІРµРґРёС‚Рµ СЃС‚РµРїРµРЅСЊ: ");
     scanf("%d", &degree);
 
     switch (degree)
@@ -31,7 +31,7 @@ int main()
         printf("E\n");
         break;
     default:
-        printf("Неизвестная степень\n");
+        printf("РќРµРёР·РІРµСЃС‚РЅР°СЏ СЃС‚РµРїРµРЅСЊ\n");
         break;
     }
 
